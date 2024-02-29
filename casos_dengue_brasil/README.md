@@ -1,4 +1,4 @@
-### **Projeto**
+## **Projeto**
 
 - A dengue é uma doença febril causada por vírus, caracterizada principalmente por febre alta de início rápido. Dengue é uma palavra espanhola que significa “manha” ou “melindre”, características que o doente costuma apresentar devido ao mal-estar provocado pelos sintomas. Os sintomas normalmente duram até sete dias.
 
@@ -14,11 +14,11 @@ Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre 
 
 [Link para acessar o conjunto de dados](https://www.kaggle.com/datasets/raomuhammadsaeedali/brazil-dengue-dataset-2000-2019/data?select=data_2000_2019.csv)
 
-### **Informações sobre o conjunto de dados**
+## **Informações sobre o conjunto de dados**
 
 - O conjunto de dados fornecido compreende uma coleção abrangente de informações relativas a numerosas características geográficas e ambientais em microregiões no Brasil de 2000 a 2019. Códigos e nomes de microregiões, códigos e nomes de mesorregiões, códigos e nomes de estados, códigos e nomes de regiões, códigos e nomes de biomas, códigos e nomes de ecozonas, regimes climáticos, meses, anos, horários, casos de dengue, estimativas populacionais, densidade populacional, temperaturas máximas e mínimas, índice de severidade de seca de Palmer, percentagens de população urbana, percentagens de acesso à rede de água e frequência relatada de escassez de água estão todos incluídos no conjunto de dados. Essas informações estão vinculadas a microregiões individuais e fornecem insights sobre dinâmicas populacionais, padrões climáticos, tendências de urbanização, recursos hídricos e ocorrências de doenças.
 
-### **Metodologia**
+## **Metodologia**
 
 Para as análises utilizei dados históricos de casos de dengue e informações climáticas agregadas por estado. As análises incluíram:
 
@@ -34,7 +34,7 @@ Para as análises utilizei dados históricos de casos de dengue e informações 
 - **Análise de Correlação:**
   - Gráficos de dispersão e mapa de calor para explorar relações entre casos de dengue e variáveis climáticas.
 
-### **Metadados**
+## **Metadados**
 
 - **micro_name_ibge**: Nome da microrregião, conforme definido pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 - **meso_name**: Nome da mesorregião, uma divisão geográfica que agrupa microrregiões com características sociais e econômicas semelhantes.
