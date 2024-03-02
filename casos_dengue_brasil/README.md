@@ -10,6 +10,8 @@ Por isso, é mais do que necessário termos dados e análises concretas de regis
 
 Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre casos de dengue no Brasil entre os anos 2000 e 2019.
 
+[![Dengue Dataset](casos_dengue_brasil\imagens\dengue_dataset.png)]
+
 ## **Conjunto de dados**
 
 [Link para acessar o conjunto de dados](https://www.kaggle.com/datasets/raomuhammadsaeedali/brazil-dengue-dataset-2000-2019/data?select=data_2000_2019.csv)
