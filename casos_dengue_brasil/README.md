@@ -10,7 +10,7 @@
 
 Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre casos de dengue no Brasil entre os anos 2000 e 2019.
 
-[![Casos Dengue](https://github.com/luiz-prado/analises_exploratorias/blob/a447b5ee44998d0191773fd541e61573c8ea71ad/casos_dengue_brasil/imagens/dengue_dataset.png)
+[![Casos Dengue](https://github.com/luiz-prado/analises_exploratorias/blob/a447b5ee44998d0191773fd541e61573c8ea71ad/casos_dengue_brasil/imagens/dengue_dataset.png)]
 
 ## **Conjunto de dados**
 
