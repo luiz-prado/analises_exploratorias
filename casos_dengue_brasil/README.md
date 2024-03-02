@@ -6,25 +6,19 @@
 
 - Com isso, é mais do que necessário termos dados e análises concretas de registros de casos, espalhamento da doença e dos seus fatores de incidência.
 
-# **Objetivo**
+## **Objetivo**
 
 Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre casos de dengue no Brasil entre os anos 2000 e 2019.
 
-<<<<<<< HEAD
-[![Dengue Dataset](casos_dengue_brasil\imagens\dengue_dataset.png)]
-
 ## **Conjunto de dados**
-=======
-# **Conjunto de dados**
->>>>>>> f39f4ed711e9e729eae46eb8904c2c02e44b9142
 
 [Link para acessar o conjunto de dados](https://www.kaggle.com/datasets/raomuhammadsaeedali/brazil-dengue-dataset-2000-2019/data?select=data_2000_2019.csv)
 
-# **Informações sobre o conjunto de dados**
+## **Informações sobre o conjunto de dados**
 
 - O conjunto de dados fornecido compreende uma coleção abrangente de informações relativas a numerosas características geográficas e ambientais em microregiões no Brasil de 2000 a 2019. Essas informações estão vinculadas a microregiões individuais e fornecem insights sobre dinâmicas populacionais, padrões climáticos, tendências de urbanização, recursos hídricos e ocorrências de doenças.
 
-# **Metadados**
+## **Metadados**
 
 - **micro_name_ibge**: Nome da microrregião, conforme definido pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
 - **meso_name**: Nome da mesorregião, uma divisão geográfica que agrupa microrregiões com características sociais e econômicas semelhantes.
