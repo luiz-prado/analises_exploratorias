@@ -1,4 +1,4 @@
-# **Projeto**
+# **Casos de Dengue no Brasil - 2000 a 2019**
 
 - A dengue é uma doença febril causada por vírus, caracterizada principalmente por febre alta de início rápido. Dengue é uma palavra espanhola que significa “manha” ou “melindre”, características que o doente costuma apresentar devido ao mal-estar provocado pelos sintomas. Os sintomas normalmente duram até sete dias.
 
@@ -21,19 +21,29 @@ Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre 
 
 ## **Metadados**
 
-- **micro_name_ibge**: Nome da microrregião, conforme definido pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
-- **meso_name**: Nome da mesorregião, uma divisão geográfica que agrupa microrregiões com características sociais e econômicas semelhantes.
-- **state_name**: Nome do estado onde os dados foram coletados.
-- **region_name**: Nome da região geográfica do Brasil (Norte, Nordeste, Centro-Oeste, Sudeste, Sul) onde os dados foram coletados.
-- **biome_name**: Nome do bioma em que a coleta de dados ocorreu, como Amazônia, Cerrado, Caatinga, etc.
-- **ecozone_name**: Nome da zona ecológica, que pode se referir a uma classificação mais específica dentro de um bioma ou região.
-- **main_climate**: Classificação climática principal da região conforme categorizada.
-- **dengue_cases**: Número de casos de dengue registrados na região durante o período de coleta de dados.
-- **population**: População total na região durante o período de coleta de dados.
-- **pop_density**: Densidade populacional na região (habitantes por quilômetro quadrado).
-- **tmax**: Temperatura máxima registrada (possivelmente a média mensal ou anual) na região durante o período de coleta de dados.
-- **tmin**: Temperatura mínima registrada (possivelmente a média mensal ou anual) na região durante o período de coleta de dados.
-- **pdsi**: Índice de Severidade de Seca de Palmer (Palmer Drought Severity Index), que mede a secura ou umidade relativa do solo.
-- **urban**: Porcentagem ou classificação da área considerada urbana na região.
-- **water_network**: Indicador da presença ou qualidade da rede de abastecimento de água na região.
-- **water_shortage**: Indica se houve escassez de água na região durante o período de coleta de dados.
+- *micro_code*: Unique ID number given by IBGE to each microregion (5 digits)
+- *micro_name*: Name of each microregion
+- *micro_name_ibge*: Name of each microregion (from IBGE sources)
+- *meso_code*: Unique ID number given by IBGE to each mesoregion (4 digits)
+- *meso_name*: Name of each mesoregion
+- *state_code*: Unique ID number given by IBGE to each state
+- *state_name*: Name of state
+- *region_code*: Region code
+- *region_name*: Region name
+- *biome_code*: Biome code
+- *biome_name*: Biome name
+- *ecozone_code*: Ecozone code (same as biome apart from Atlantic Rainforest, biome code 6, which has been separated into NE Atlantic rainforest, ecozone code 6, SE Atlantic Rainforest, ecozone code 7, and S Alantic Rainforest, ecozone code 8)
+- *ecozone_name*: Ecozone name (same as biome apart from Atlantic Rainforest, which has been separated into NE Atlantic rainforest, SE Atlantic Rainforest, and S Alantic Rainforest)
+- *main_climate*: Most prevalent climate regime in the microregion. Based on Koppen Geiger climate regimes
+- *month*: Calendar month index, 1 = January, É, 12 = December
+- *year*: Year 2000 - 2019
+- *time*: Time index starting at 1 for January 2000
+- *dengue_cases*: Number of notified dengue cases registered in the notifiable diseases system in Brazil (SINAN) in the microregion of reference, at the month of first symptoms
+- *population*: Estimated population, based on projections calculated using the 2000 and 2010 censuses, and counts carried out in 2007 and 2017
+- *pop_density*: Population density (number of people per km2)
+- *tmax*: Monthly average daily maximum temperature; gridded values (at a 0.5¡ resolution) averaged across each microregion using the 'exactextratr' R package (¡C)
+- *tmin*: Monthly average daily minimum temperature; gridded values (at a 0.5¡ resolution) averaged across each microregion using the 'exactextratr' R package (¡C)
+- *pdsi*: Self-calibrated Palmer drought severity index for each microregion (a measure of how wet or dry a region is relative to usual conditions). Negative values represent periods of drought, positive values represent wetter periods. Calculated by taking the mean value within each microregion using the exact_extract R package
+- *urban*: Percentage of inhabitants living in urban areas according to the 2010 census
+- *water_network*: Percentage of inhabitants with access to the piped water network according to the 2010 census
+- *water_shortage*: Frequency of reported water shortages per microregion between 2000 - 2016
