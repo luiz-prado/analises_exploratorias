@@ -1,4 +1,4 @@
-# **Casos de Dengue no Brasil - 2000 a 2019**
+# **Casos de Dengue no Brasil | 2000 a 2019**
 
 - A dengue é uma doença febril causada por vírus, caracterizada principalmente por febre alta de início rápido. Dengue é uma palavra espanhola que significa “manha” ou “melindre”, características que o doente costuma apresentar devido ao mal-estar provocado pelos sintomas. Os sintomas normalmente duram até sete dias.
 
