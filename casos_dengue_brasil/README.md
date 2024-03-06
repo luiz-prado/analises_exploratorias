@@ -8,7 +8,7 @@
 
 ## **Objetivo**
 
-Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre casos de dengue no Brasil entre os anos 2000 e 2019.
+Realizar uma Análise Exploratória de Dados utilizando um conjunto de dados sobre casos de dengue no Brasil entre os anos 2000 e 2019.
 
 ## **Conjunto de dados**
 
@@ -47,3 +47,27 @@ Fazer uma Análise Exploratória de Dados utilizando um conjunto de dados sobre 
 - *urban*: Percentage of inhabitants living in urban areas according to the 2010 census
 - *water_network*: Percentage of inhabitants with access to the piped water network according to the 2010 census
 - *water_shortage*: Frequency of reported water shortages per microregion between 2000 - 2016
+
+## **Metodologia**
+
+Para as análises utilizei dados históricos de casos de dengue e informações climáticas agregadas por estado. As análises incluíram:
+
+- **Análise Temporal**:
+  - Avaliação de tendências de longo prazo e padrões sazonais nos dados de casos de dengue.
+
+- **Análise por Região**:
+  - Comparação dos casos entre diferentes regiões, identificando áreas com maior incidência da doença.
+
+- **Correlação com Fatores Climáticos**:
+  - Investigação da relação entre casos de dengue e fatores climáticos, incluindo temperatura máxima, temperatura mínima, e índice de seca (PDSI).
+
+- **Análise de Correlação:**
+  - Gráficos de dispersão e mapa de calor para explorar relações entre casos de dengue e variáveis climáticas.
+
+## **Conclusão**
+
+- Ao longo deste projeto, exploramos a distribuição e os fatores associados aos casos de dengue no Brasil, no período de 2000 a 2019, utilizando um conjunto de dados que inclui informações sobre os casos de dengue e variáveis climáticas por estado. Através de análises gráficas e estatísticas, identificamos padrões e correlações que oferecem insights sobre como o clima pode influenciar a transmissão da dengue no país.
+
+- A análise gráfica revelou variações na incidência da dengue ao longo do tempo e entre diferentes regiões geográficas. Gráficos de dispersão entre casos de dengue e variáveis climáticas como temperatura média e escassez de água forneceram uma visão inicial da complexa interação entre o clima e a transmissão da dengue. Embora algumas relações não tenham mostrado padrões claros, observamos que certas condições climáticas podem estar associadas a um aumento no número de casos de dengue.
+
+- Concluímos que, embora existam correlações entre os casos de dengue e fatores climáticos, a transmissão da doença é influenciada por uma combinação complexa de fatores, incluindo variáveis ambientais, sociais e de saúde pública. Portanto, estratégias eficazes de prevenção e controle da dengue no Brasil devem considerar essa multifatorialidade, adaptando-se às condições locais específicas de cada região.
