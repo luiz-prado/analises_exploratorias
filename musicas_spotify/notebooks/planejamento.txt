@@ -1,0 +1,41 @@
+# Planejamento para Análise Exploratória de Dados
+
+## 1. Objetivo da análise
+    - Identificar os albuns mais populares dos artistas
+    - Identificar as musicas mais populares dos artistas
+    - Explorar a relação entre as variáveis (correlações entre as variaveis)
+    - Comparação entre albuns Taylor's Version e versões originais
+
+## 2. Coletar os dados
+    - Identificar as fontes de dados relevantes
+    - Extrair os dados necessários para a análise
+
+## 3. Limpar e preparar os dados
+    - Remover dados duplicados ou irrelevantes
+    - Tratar valores ausentes ou inconsistentes
+    - Padronizar formatos de dados
+    - Juntar (futuramente) as bases do Ed e Taylor
+
+## 4. Explorar os dados
+    - Calcular estatísticas descritivas (média, mediana, desvio padrão, etc.)
+    - Visualizar os dados através de gráficos e tabelas
+    - Identificar outliers e anomalias
+
+## 5. Analisar os dados
+    - Identificar correlações entre as variáveis
+    - Quais sao as relações entre as variaveis com a popularidade da musica?
+    - Realizar testes estatísticos para validar hipóteses
+    - Quais sao as track_number mais famosas de cada album?
+    - Aplicar técnicas de modelagem, se necessário
+
+## 6. Interpretar os resultados
+    - Resumir os principais insights e conclusões
+    - Comunicar os resultados de forma clara e objetiva
+
+## 7. Documentar o processo
+    - Registrar todas as etapas da análise
+    - Documentar as decisões tomadas e os resultados obtidos
+
+## 8. Revisar e iterar
+    - Avaliar a qualidade da análise realizada
+    - Identificar possíveis melhorias e ajustes
