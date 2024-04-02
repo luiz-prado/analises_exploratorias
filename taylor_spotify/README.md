@@ -1,10 +1,14 @@
 # Análise Exploratória de Músicas da Taylor Swift
 
-Este repositório contém uma análise exploratória de músicas da Taylor Swift. O objetivo desta análise é explorar os padrões e características das músicas da Taylor Swift, utilizando dados obtidos do Spotify.
+Este repositório contém uma análise exploratória de músicas do Ed Sheeran e Taylor Swift. O objetivo desta análise é explorar os padrões e características das músicas dos artistas, utilizando dados obtidos do Spotify e exibi-los com Data Viz.
+
+![Ed e Taylor](https://github.com/luiz-prado/analises_exploratorias/blob/a447b5ee44998d0191773fd541e61573c8ea71ad/casos_dengue_brasil/imagens/dengue_dataset.png)
 
 ## Dados
 
-[Acesse o Dataset](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset)
+[Dataset Spotify - Taylor Swift](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset)
+[Dataset Genius - Taylor Swift](https://www.kaggle.com/datasets/madroscla/taylor-swift-released-song-discography-genius)
+[Dataset Spotify - Ed Sheeran](https://www.kaggle.com/datasets/jarredpriester/ed-sheeran-spotify-dataset)
 
 ## Conteúdo do Repositório
 
@@ -24,7 +28,7 @@ Para executar a análise, siga as etapas abaixo:
 
 ## Resultados
 
-Os resultados desta análise incluem visualizações gráficas dos padrões encontrados nas músicas da Taylor Swift, bem como insights e conclusões obtidas a partir dos dados.
+Os resultados desta análise incluem visualizações gráficas dos padrões encontrados nas músicas de ambos, bem como insights e conclusões obtidas a partir dos dados.
 
 ## Contribuição
 
