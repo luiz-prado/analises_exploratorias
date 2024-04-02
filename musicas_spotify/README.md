@@ -1,4 +1,4 @@
-# Análise Exploratória de Músicas da Taylor Swift
+# Análise Exploratória de Músicas
 
 Este repositório contém uma análise exploratória de músicas do Ed Sheeran e Taylor Swift. O objetivo desta análise é explorar os padrões e características das músicas dos artistas, utilizando dados obtidos do Spotify e exibi-los com Data Viz.
 
