@@ -9,6 +9,7 @@ Este repositório contém uma análise exploratória de músicas do Ed Sheeran e
 - [Dataset Spotify - Taylor Swift](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset)
 - [Dataset Genius - Taylor Swift](https://www.kaggle.com/datasets/madroscla/taylor-swift-released-song-discography-genius)
 - [Dataset Spotify - Ed Sheeran](https://www.kaggle.com/datasets/jarredpriester/ed-sheeran-spotify-dataset)
+- [Dataset Spotify - Geral](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 
 ## Conteúdo do Repositório
 
