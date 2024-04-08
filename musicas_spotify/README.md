@@ -1,6 +1,6 @@
 # Análise Exploratória de Músicas
 
-![Spotify](https://github.com/luiz-prado/analises_exploratorias/blob/82e1faae3aef2e6443841521150e3db25a9b7bb5/musicas_spotify/imagens/spotify.jpg)
+![Spotify](https://github.com/luiz-prado/analises_exploratorias/blob/abfd73baf2997eed08595be8af7405b1ee700e81/musicas_spotify/imagens/spotify.png)
 
 Este repositório contém análises exploratórias de músicas do Spotify. O objetivo desta análise é explorar os padrões e características das músicas dos artistas, utilizando dados obtidos do Spotify e Genius e, por fim, exibi-los com Data Viz.
 
