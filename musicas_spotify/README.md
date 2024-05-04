@@ -4,30 +4,9 @@
 
 Este repositório contém análises exploratórias de músicas do Spotify. O objetivo desta análise é explorar os padrões e características das músicas dos artistas, utilizando dados obtidos do Spotify e Genius e, por fim, exibi-los com Data Viz.
 
-## Análise - Ed Sheeran e Taylor Swift
+## Análises
 
-Como grande fã do Ed e da Taylor, resolvi iniciar as análises com as músicas e álbums de ambos.
-
-![Ed e Taylor](https://github.com/luiz-prado/analises_exploratorias/blob/5f124b7a227dd99332f35a942bfcc43c80032fd0/taylor_spotify/dados/ed_taylor.png)
-
-## Brainstorm
-
-Aqui, disponibilizo o board do Miro onde juntei algumas ideias e possibilidades de explorações e análises que poderia realizar com as bases e dados encontrados:
-
-- [Board criado na ferramenta Miro](https://miro.com/welcomeonboard/MXZQbzk4R3MyRXFpR3lLamtMbWJ3cnc2TlhaRlI4VDZrdDhVQVQydDRDMHhONUEwY0lDNExaODNkd09KTWx1V3wzMDc0NDU3MzU2MzY5MDM0ODMyfDI=?share_link_id=50352200730)
-
-## Dados
-
-- [Dataset Spotify - Taylor Swift](https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset)
-- [Dataset Genius - Taylor Swift](https://www.kaggle.com/datasets/madroscla/taylor-swift-released-song-discography-genius)
-- [Dataset Spotify - Ed Sheeran](https://www.kaggle.com/datasets/jarredpriester/ed-sheeran-spotify-dataset)
-- [Dataset Spotify - Geral](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
-
-## Conteúdo do Repositório
-
-- `dados/`: Pasta contendo os datasets utilizados nas análises.
-- `notebooks/`: Pasta contendo os notebooks Jupyter utilizados para a análise.
-- `README.md`: Este arquivo, fornecendo uma visão geral do projeto.
+- [Ed Sheeran e Taylor Swift](https://github.com/luiz-prado/analises_exploratorias/tree/main/musicas_spotify/sheeran_swift)
 
 ## Como Executar a Análise
 
